@@ -1,1 +1,5 @@
-Requerimientos del proyecto para Streamlitstreamlitpandasgspreadgspread-dataframeunidecode
+# Requerimientos para Streamlit y Google Sheets
+streamlit
+pandas
+gspread
+unidecode
