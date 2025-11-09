@@ -1,5 +1,1 @@
-streamlit
-pandas
-gspread
-google-auth
-google-auth-oauthlib
+Requerimientos del proyecto para Streamlitstreamlitpandasgspreadgspread-dataframeunidecode
