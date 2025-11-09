@@ -1,0 +1,5 @@
+# Requerimientos para Streamlit y Google Sheets
+streamlit
+pandas
+gspread
+unidecode
